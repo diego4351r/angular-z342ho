@@ -10,7 +10,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "e2e": "ng e2e",
-    "ng-g": "ng g c product-details"
+    "ng-g": "ng g s cart"
   },
   "private": true,
   "dependencies": {
